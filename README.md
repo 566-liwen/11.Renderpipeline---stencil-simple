@@ -1,5 +1,5 @@
 # 11.Renderpipeline---stencil-simple
-This is a simple stencil test case in a SRP.
+This is a simple stencil test case with SRP.
 
 Stencil ref value is 2 in this case.
 
